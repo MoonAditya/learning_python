@@ -1,4 +1,4 @@
-# learning datetime related modules
+# IS 210, Week 5, extra credit discussion board topic: Learning datetime related modules
 
 import datetime
 
