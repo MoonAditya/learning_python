@@ -14,3 +14,5 @@ min/max datetime validation, etc
 import pytz
 
 Using pytz module we can convert UTC timezone to another timezones.
+
+Link to learn more : https://www.w3schools.com/python/python_datetime.asp
